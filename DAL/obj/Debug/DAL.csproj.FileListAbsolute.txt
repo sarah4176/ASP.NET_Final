@@ -1,0 +1,16 @@
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Syed Sazed\source\repos\Manager\DAL\bin\Debug\DAL.dll.config
+C:\Users\Syed Sazed\source\repos\Manager\DAL\bin\Debug\DAL.dll
+C:\Users\Syed Sazed\source\repos\Manager\DAL\bin\Debug\DAL.pdb
+C:\Users\Syed Sazed\source\repos\Manager\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Syed Sazed\source\repos\Manager\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Syed Sazed\source\repos\Manager\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Syed Sazed\source\repos\Manager\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.dll
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.pdb
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.Migrations.CreatedAgain.resources
+C:\Users\Syed Sazed\source\repos\Manager\DAL\obj\Debug\DAL.Migrations.addded.resources
